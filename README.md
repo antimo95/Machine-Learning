@@ -64,6 +64,3 @@ Support Vector Regression (SVR) with RBF kernel
 Stacking with a linear regression meta-model
 Based on the results, the Stacking model with a linear regression meta-model demonstrated the best performance, showing a superior ability to capture relationships in the data and generalize more effectively compared to other approaches.
 
-🙌 Acknowledgments
-
-University of Naples "Federico II" Machine Learning Final Contest
